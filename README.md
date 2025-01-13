@@ -63,6 +63,3 @@ The code performs the following steps:
 - Evaluate cluster quality using metrics like silhouette score.
 - Develop interactive visualizations for exploring the clusters in more detail.
 
-## Disclaimer
-
-This project is for educational purposes and should not be considered financial advice. Cryptocurrency investments are speculative and involve risk.
